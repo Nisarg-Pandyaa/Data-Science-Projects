@@ -47,7 +47,7 @@ Coders-Of-Karnavati-University/ <br>
 ---
 
 ## 🚀 How to Run
-1. Clone the parent repository:
+Clone the parent repository:
    ```bash
    git clone https://github.com/Nisarg-Pandyaa/Data-Science-Projects.git
    cd Data-Science-Projects/Coders-Of-Karnavati-University
