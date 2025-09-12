@@ -1,0 +1,30 @@
+# =======================
+# Jupyter / Anaconda Junk
+# =======================
+.ipynb_checkpoints/
+.virtual_documents/
+anaconda_projects/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# OS / Editor Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Environment Files
+.env
+*.env
+*.venv
+.venv/
+venv/
+env/
+ENV/
+
+# Logs
+*.log
