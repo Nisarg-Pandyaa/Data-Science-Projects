@@ -42,9 +42,7 @@ Coders-Of-Karnavati-University/ <br>
 ---
 
 ## 🧪 Key Techniques & Libraries
-- **Data Cleaning:** handling duplicates, nulls, inconsistent IDs  
-- **Pandas / NumPy:** data wrangling and transformation    
-- **Recommendation Logic:** simple collaborative filtering
+- *Only Used Python Programming Languages*
 
 ---
 
